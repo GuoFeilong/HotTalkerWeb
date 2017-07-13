@@ -29,3 +29,7 @@
 .gradle/4.0/fileHashes/
 .idea/dataSources/
 src/test/
+
+.idea/modules.xml
+
+.idea/modules/HotTalkerWeb.iml
